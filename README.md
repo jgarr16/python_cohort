@@ -5,7 +5,7 @@ If you click on the link below, you will be redirected to the Binder site. Then 
 
 It takes a few seconds to get going on your first pass, but as long as you're seeing motion on the Binder page, you'll be fine. 
 
-### [Access the Jupyter Notebook](https://mybinder.org/v2/gh/jgarr16/python_cohort/79d99ba934f7650df8ea1248c4edd5e71941f6a2)
+### [Access the Jupyter Notebook](https://mybinder.org/v2/gh/jgarr16/python_cohort/HEAD)
 
 Once you're in the notebook, you'll find the following pages: 
 
